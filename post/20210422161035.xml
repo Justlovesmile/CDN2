@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<annotation>
+    <sonar>
+        <type>Tritech 1200ik</type>
+        <version>1</version>
+        <range>7.99928</range>
+        <horiangle>120</horiangle>
+        <vertiangle>20</vertiangle>
+        <soundspeed>1470.9</soundspeed>
+        <frequency>720k </frequency>
+    </sonar>
+    <folder>log_2021-03-19-134256annotaion</folder>
+    <filename>log_2021-03-19-134256_annotaion_0.xml</filename>
+    <path>/Users/zmy/Downloads/jinshitan319low/log_2021-03-19-134256_annotaion/log_2021-03-19-134256_annotaion_0.bmp</path>
+    <size>
+        <width>512</width>
+        <height>1967</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>cube</name>
+        <bndbox>
+            <xmin>269</xmin>
+            <ymin>1445</ymin>
+            <xmax>328</xmax>
+            <ymax>1536</ymax>
+        </bndbox>
+    </object>
+</annotation>
