@@ -1,0 +1,22 @@
+{
+  "name": "mj-cdn2",
+  "version": "1.0.0",
+  "description": "20220318-mj-cdn2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Justlovesmile/CDN2.git"
+  },
+  "keywords": [
+    "cdn2"
+  ],
+  "author": "justlovesmile",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Justlovesmile/CDN2/issues"
+  },
+  "homepage": "https://github.com/Justlovesmile/CDN2#readme"
+}
